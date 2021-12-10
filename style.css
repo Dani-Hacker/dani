@@ -27,7 +27,6 @@ body {
 
 div .sample {
   position: relative;
-  display: inline-block;
   margin: 10px 0;
 
   text-decoration: none;
