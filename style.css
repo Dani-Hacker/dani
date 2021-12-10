@@ -12,8 +12,6 @@ body {
   background: black;
   display: flex;
   justify-content: center;
-
-  min-height: 100vh;
 }
 
 .cursor {
@@ -28,7 +26,6 @@ body {
 }
 
 div .sample {
-  top: 100px;
   position: relative;
   display: inline-block;
   margin: 10px 0;
